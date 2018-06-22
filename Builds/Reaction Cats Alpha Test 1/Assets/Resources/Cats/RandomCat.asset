@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c32f8362c8154dfbbad78fc9f8e2d9c, type: 3}
+  m_Name: RandomCat
+  m_EditorClassIdentifier: 
+  CatIcon: {fileID: 21300000, guid: b520986003ba84bf7b6d275e7a9597ee, type: 3}
+  catRarity: 11
+  abilitys:
+  - {fileID: 11400000, guid: 566d0d9d9331a46c180466ca9f0260a5, type: 2}
+  Defense: 1000
+  Attack: 1000
+  TorsoHP: 13500
+  MaxSpeed: 6
+  CatName: THE CAT
+  RichtextCatName: <b><color=red>T</color><color=orange>H</color><color=yellow>E</color>
+    <color=green>C</color><color=blue>A</color><color=#8A2BE2>T</color></b>
+  AttackSpeed: 10
+  AttackRecharge: 1

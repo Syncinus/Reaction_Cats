@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c32f8362c8154dfbbad78fc9f8e2d9c, type: 3}
+  m_Name: DerpCat
+  m_EditorClassIdentifier: 
+  CatIcon: {fileID: 21300000, guid: b520986003ba84bf7b6d275e7a9597ee, type: 3}
+  catRarity: 8
+  CatIconName: 75
+  abilitys:
+  - {fileID: 11400000, guid: 566d0d9d9331a46c180466ca9f0260a5, type: 2}
+  - {fileID: 11400000, guid: 47a86efbe49424e66913d5e2d5d51729, type: 2}
+  attacks:
+  - {fileID: 11400000, guid: ab4a9e95f79e64d97bc6e7b318abbdc9, type: 2}
+  Defense: 10
+  Attack: 10
+  TorsoHP: 150
+  MaxSpeed: 6
+  CatName: Fat Cat
+  TravelSpeed: 8
+  RichtextCatName: null
+  MaxStamina: 0
+  AttackSpeed: 10
+  AttackRecharge: 1

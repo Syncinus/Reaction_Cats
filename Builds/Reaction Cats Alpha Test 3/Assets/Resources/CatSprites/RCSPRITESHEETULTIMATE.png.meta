@@ -1,0 +1,1332 @@
+fileFormatVersion: 2
+guid: 0da48fe6df266466e988244cca4f1e34
+timeCreated: 1520623803
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RCSPRITESHEETULTIMATE_0
+    21300002: RCSPRITESHEETULTIMATE_1
+    21300004: RCSPRITESHEETULTIMATE_2
+    21300006: RCSPRITESHEETULTIMATE_3
+    21300008: RCSPRITESHEETULTIMATE_4
+    21300010: RCSPRITESHEETULTIMATE_5
+    21300012: RCSPRITESHEETULTIMATE_6
+    21300014: RCSPRITESHEETULTIMATE_7
+    21300016: RCSPRITESHEETULTIMATE_8
+    21300018: RCSPRITESHEETULTIMATE_9
+    21300020: RCSPRITESHEETULTIMATE_10
+    21300022: RCSPRITESHEETULTIMATE_11
+    21300024: RCSPRITESHEETULTIMATE_12
+    21300026: RCSPRITESHEETULTIMATE_13
+    21300028: RCSPRITESHEETULTIMATE_14
+    21300030: RCSPRITESHEETULTIMATE_15
+    21300032: RCSPRITESHEETULTIMATE_16
+    21300034: RCSPRITESHEETULTIMATE_17
+    21300036: RCSPRITESHEETULTIMATE_18
+    21300038: RCSPRITESHEETULTIMATE_19
+    21300040: RCSPRITESHEETULTIMATE_20
+    21300042: RCSPRITESHEETULTIMATE_21
+    21300044: RCSPRITESHEETULTIMATE_22
+    21300046: RCSPRITESHEETULTIMATE_23
+    21300048: RCSPRITESHEETULTIMATE_24
+    21300050: RCSPRITESHEETULTIMATE_25
+    21300052: RCSPRITESHEETULTIMATE_26
+    21300054: RCSPRITESHEETULTIMATE_27
+    21300056: RCSPRITESHEETULTIMATE_28
+    21300058: RCSPRITESHEETULTIMATE_29
+    21300060: RCSPRITESHEETULTIMATE_30
+    21300062: RCSPRITESHEETULTIMATE_31
+    21300064: RCSPRITESHEETULTIMATE_32
+    21300066: RCSPRITESHEETULTIMATE_33
+    21300068: RCSPRITESHEETULTIMATE_34
+    21300070: RCSPRITESHEETULTIMATE_35
+    21300072: RCSPRITESHEETULTIMATE_36
+    21300074: RCSPRITESHEETULTIMATE_37
+    21300076: RCSPRITESHEETULTIMATE_38
+    21300078: RCSPRITESHEETULTIMATE_39
+    21300080: RCSPRITESHEETULTIMATE_40
+    21300082: RCSPRITESHEETULTIMATE_41
+    21300084: RCSPRITESHEETULTIMATE_42
+    21300086: RCSPRITESHEETULTIMATE_43
+    21300088: RCSPRITESHEETULTIMATE_44
+    21300090: RCSPRITESHEETULTIMATE_45
+    21300092: RCSPRITESHEETULTIMATE_46
+    21300094: RCSPRITESHEETULTIMATE_47
+    21300096: RCSPRITESHEETULTIMATE_48
+    21300098: RCSPRITESHEETULTIMATE_49
+    21300100: RCSPRITESHEETULTIMATE_50
+    21300102: RCSPRITESHEETULTIMATE_51
+    21300104: RCSPRITESHEETULTIMATE_52
+    21300106: RCSPRITESHEETULTIMATE_53
+    21300108: RCSPRITESHEETULTIMATE_54
+    21300110: RCSPRITESHEETULTIMATE_55
+    21300112: RCSPRITESHEETULTIMATE_56
+    21300114: RCSPRITESHEETULTIMATE_57
+    21300116: RCSPRITESHEETULTIMATE_58
+    21300118: RCSPRITESHEETULTIMATE_59
+    21300120: RCSPRITESHEETULTIMATE_60
+    21300122: RCSPRITESHEETULTIMATE_61
+    21300124: RCSPRITESHEETULTIMATE_62
+    21300126: RCSPRITESHEETULTIMATE_63
+    21300128: RCSPRITESHEETULTIMATE_64
+    21300130: RCSPRITESHEETULTIMATE_65
+    21300132: RCSPRITESHEETULTIMATE_66
+    21300134: RCSPRITESHEETULTIMATE_67
+    21300136: RCSPRITESHEETULTIMATE_68
+    21300138: RCSPRITESHEETULTIMATE_69
+    21300140: RCSPRITESHEETULTIMATE_70
+    21300142: RCSPRITESHEETULTIMATE_71
+    21300144: RCSPRITESHEETULTIMATE_72
+    21300146: RCSPRITESHEETULTIMATE_73
+    21300148: RCSPRITESHEETULTIMATE_74
+    21300150: RCSPRITESHEETULTIMATE_75
+    21300152: RCSPRITESHEETULTIMATE_76
+    21300154: RCSPRITESHEETULTIMATE_77
+    21300156: RCSPRITESHEETULTIMATE_78
+    21300158: RCSPRITESHEETULTIMATE_79
+    21300160: RCSPRITESHEETULTIMATE_80
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_21
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_23
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_33
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_35
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_45
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_46
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_47
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RCSPRITESHEETULTIMATE_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.53, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
