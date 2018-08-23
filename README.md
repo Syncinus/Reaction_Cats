@@ -1,6 +1,6 @@
 # Reaction Cats
 <br>
-NOTE: REACTION CATS DEVELOPMENT IS CURRENTLY PAUSED!!!
+NOTE: REACTION CATS DEVELOPMENT IS CURRENTLY PAUSED!!! <br>
 <br>
 The Reaction Cats game, short version is RC. <br>
 It's a game about cats that battle each other. <br>
